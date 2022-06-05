@@ -3,6 +3,7 @@ Developing  a model for predicting fraudulent transactions for a
 financial company and use insights from the model to develop an actionable plan. Data for the 
 case is available in CSV format having 6362620 rows and 10 columns
 
+[Fraud.csv](https://drive.google.com/file/d/1Gzq1SF8qFQGpIyVxqPu9hDPpj9B1CKDU/view?usp=sharing)
 ## Task Details 
 1. Data cleaning including missing values, outliers and multi-collinearity. 
 2. Describe your fraud detection model in elaboration. 
